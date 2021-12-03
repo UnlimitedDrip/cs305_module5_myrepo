@@ -4,7 +4,7 @@ This is a fake project so the details are here:
 2. push to origin
 3. blah blah blah
 
-#License
+# License
  GNU GENERAL PUBLIC LICENSE V3 Open up LICENSE file for more information.
-#Contributor Names and Usernames go here:
+# Contributor Names and Usernames go here:
 
