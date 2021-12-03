@@ -8,3 +8,4 @@ This is a fake project so the details are here:
  GNU GENERAL PUBLIC LICENSE V3 Open up LICENSE file for more information.
 # Contributor Names and Usernames go here:
 Ryan Demboski - rdemboski
+Sam Gerstner - sbg75
